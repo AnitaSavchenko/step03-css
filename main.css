@@ -20,12 +20,17 @@
     padding: 20px;
     margin: 25px;
     border: 5px solid #ecb3ee;
+    overflow: hidden;
 }
 .box1{ 
     background-color: #db4a4a;
+    border-radius: 0 50% 0 10px;
 }
 .box2{
     background-color: #f0e32d;
+    border-radius: 50% ;
+    line-height:  200px ;
+    text-align: center;
 }
 .box3{
     background-color: #5f9621;
